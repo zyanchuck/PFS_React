@@ -1,3 +1,10 @@
+Deskripsi tugas:
+Silakan buat aplikasi TodoList dengan CRUD menggunakan React JS (React 19)
+dan memanfaatkan Bootstrap! Contoh tata letak aplikasi yang ditingkatkan dapat
+menampilkan lencana (badge) warna pada Priority (merah untuk High, kuning untuk
+Medium, hijau untuk Low), indikator status, serta ikon tombol aksi (Edit & Delete).
+
+
 Berikut screenshot tampilan website todolist kami:
 ![screenshot tampilan web](src/assets/Screenshot.png)
 
